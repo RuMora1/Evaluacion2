@@ -175,7 +175,7 @@
   
                           <ul class="list-unstyled mt-3 mb-4">
                               <li></li>
-                              <li>4 GB RAM</li>
+                              <li>color unico </li>
                               <li>TRANSPARENTE T/U</li>
                          
                           </ul>
